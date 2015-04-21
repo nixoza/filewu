@@ -1,0 +1,166 @@
+{
+    "__class": "course",
+    "id": "474436",
+    "curriculum": [
+        {
+            "__class": "chapter",
+            "id": "717738",
+            "title": "Introduction to the system"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752076",
+            "title": "Introduction"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752078",
+            "title": "The concept"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752080",
+            "title": "What you need"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752082",
+            "title": "What you should avoid"
+        },
+        {
+            "__class": "chapter",
+            "id": "717740",
+            "title": "How the system works in 3 steps"
+        },
+        {
+            "__class": "lecture",
+            "id": "2763804",
+            "title": "#1 How the Excel Sheet works"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752102",
+            "title": "#2 How to play"
+        },
+        {
+            "__class": "lecture",
+            "id": "2763838",
+            "title": "#2 How to play: Part 2"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752098",
+            "title": "#3 How to introduce the concept"
+        },
+        {
+            "__class": "chapter",
+            "id": "721854",
+            "title": "Another example"
+        },
+        {
+            "__class": "lecture",
+            "id": "2768724",
+            "title": "Live test: How the system works Part 1"
+        },
+        {
+            "__class": "lecture",
+            "id": "2768722",
+            "title": "Live test: How the system works Part 2"
+        },
+        {
+            "__class": "chapter",
+            "id": "721984",
+            "title": "LIVE ACTION - Coming soon!"
+        },
+        {
+            "__class": "lecture",
+            "id": "2769416",
+            "title": "#1 Coming Soon"
+        },
+        {
+            "__class": "lecture",
+            "id": "2769420",
+            "title": "#2 Coming Soon"
+        },
+        {
+            "__class": "lecture",
+            "id": "2769422",
+            "title": "#3 Coming Soon"
+        },
+        {
+            "__class": "lecture",
+            "id": "2769424",
+            "title": "#4 Coming Soon"
+        },
+        {
+            "__class": "lecture",
+            "id": "2769428",
+            "title": "#5 Coming Soon"
+        },
+        {
+            "__class": "chapter",
+            "id": "717744",
+            "title": "Let's start making money - Things get real here!"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752106",
+            "title": "Test the system without money"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752110",
+            "title": "What to play on?"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752112",
+            "title": "Investing"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752114",
+            "title": "Introducing"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752118",
+            "title": "Doing it all over again - every day 30 minutes a day."
+        },
+        {
+            "__class": "chapter",
+            "id": "717748",
+            "title": "Tips & Tricks - Conclusion"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752120",
+            "title": "TeamViewer"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752124",
+            "title": "New Campaigns"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752130",
+            "title": "Terms & Conditions"
+        },
+        {
+            "__class": "lecture",
+            "id": "2772700",
+            "title": "Excel Sheet contact information"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752128",
+            "title": "Excel sheet - how to contact me"
+        },
+        {
+            "__class": "lecture",
+            "id": "2752132",
+            "title": "Thanks for watching!"
+        }
+    ]
+}
